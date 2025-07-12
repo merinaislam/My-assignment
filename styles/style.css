@@ -117,3 +117,12 @@ min-width: 300px;
     object-fit: cover;
     margin-bottom: 10px;
  }
+ .focus{
+    text-align: center;
+    margin: 60px 0;
+ }
+ .focus-img{
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 10px;
+ }
